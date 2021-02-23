@@ -1,5 +1,5 @@
 alias z='clear; ls -la --color=auto'
-alias x='clear; ls -a --color=auto'
+alias x='clear; ls --color=auto'
 alias c='clear'
 
 alias echo_file_browser_reminder='echo windows explorer, mint nemo'
