@@ -1,5 +1,3 @@
-```
-if [ -f ~/bash_aliases/bash_aliases ]; then
-    . ~/bash_aliases/bash_aliases
-fi
+```sh
+sudo sh oh_my_bash.sh
 ```
